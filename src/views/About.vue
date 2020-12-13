@@ -1,6 +1,7 @@
 <template>
   <div class="about">
     <h2>{{message}}</h2>
+    <h3>hello git!</h3>
   </div>
 </template>
 
